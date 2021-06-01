@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ZYFframework'
   s.version          = '0.0.7'
-  s.summary          = '4399分析平台iOS版本SDK'
+  s.summary          = 'testSDK'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,9 +21,9 @@ Pod::Spec.new do |s|
 #4399分析平台iOS版本SDK
                        DESC
 
-  s.homepage         = 'https://github.com/zheng990307/ZYFframework.git'
+  s.homepage         = 'https://github.com/zheng990307/ZYFframework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'hecong@4399inc.com' => 'hecong@4399inc.com' }
+  s.author           = { 'zhengyufeng@4399inc.com' => 'zhengyufeng@4399inc.com' }
   s.source           = { :git => 'https://github.com/zheng990307/ZYFframework.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
