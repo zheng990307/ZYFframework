@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZYFframework'
-  s.version          = '0.0.12'
+  s.version          = '0.0.14'
   s.summary          = 'testSDK'
 
 # This description is used to generate tags and improve search results.
